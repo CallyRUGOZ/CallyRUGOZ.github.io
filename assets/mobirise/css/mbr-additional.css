@@ -4283,6 +4283,12 @@ body {
   width: auto;
   max-width: 600px;
 }
+.cid-radIfpMKHa H4 {
+  color: #cc2952;
+}
+.cid-radIfpMKHa P {
+  color: #ffffff;
+}
 .cid-racFB5P1Cl {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4347,7 +4353,7 @@ body {
 .cid-radHCxbcBX {
   padding-top: 15px;
   padding-bottom: 15px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+  background: linear-gradient(0deg, #7fdbfd, #b2ccd2);
 }
 .cid-radHCxbcBX .mbr-iconfont-social {
   font-size: 32px;
