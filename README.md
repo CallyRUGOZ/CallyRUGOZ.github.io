@@ -1,2 +1,2 @@
-# CallyRUGOZ.github.io
+# Rugoztech.github.io
 GitHub Pages
